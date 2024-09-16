@@ -5,7 +5,7 @@ Curso auxiliar para el alumnado del módulo de Programación del IES MUTXAMEL.
 
 ** Enlaces
 1.  [[https://programame.com/documents/ProblemsSets/2024/ProgramaMe-2024-VillaviciosaOlot.pdf][Boletín de ejemplo - ProgramaMe]]
-2.  [[./sesion-2.org][AULES básico.]] (7-dic-2022)
-3.  [[./sesion-2.org][AULES básico 2. Actividades de tipo Taller para la evaluación entre iguales.]] (11-ene-2023)
-4.  [[./sesion-5.org][Generando contenido con herramientas de Inteligencia Artificial. Análisis de las ventajas y posibles problemáticas con el alumnado dentro y fuera del aula.]] (18-ene-2023) 
+2.  [[./pdfs/primos2_ISBAN.pdf][Problemas 1. Números primos. Comprobador de ISBAN.]] (7-dic-2022)
+3.  [[./pdfs/primos1.pdf][Ampliación de números primos.]] (11-ene-2023)
+4.  [[./pdfs/OICV.pdf][Problemas 2. Cadenas de texto.]] (18-ene-2023) 
 
